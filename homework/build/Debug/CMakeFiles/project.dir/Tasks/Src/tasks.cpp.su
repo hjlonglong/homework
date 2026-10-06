@@ -1,0 +1,2 @@
+D:/rm/codes/homework/Tasks/Src/tasks.cpp:16:17:void Tasks_Init()	8	static
+D:/rm/codes/homework/Tasks/Src/tasks.cpp:26:17:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
